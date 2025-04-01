@@ -1,4 +1,4 @@
-# Welcome to the Durable Task Scheduler repository
+# Welcome to the Durable Task Scheduler
 
 ## How to Use This Repository 
 This GitHub repository serves as a centralized hub for users of the Durable Task Scheduler to open issues, submit feature requests, and track overall progress and upcoming roadmap items. 
