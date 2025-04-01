@@ -5,7 +5,7 @@ This GitHub repository serves as a centralized hub for users of the Durable Task
 
 #### For feature requests, ongoing issues, or general questions, please use the "Issues" forum and apply the appropriate labels to your submissions.
 
-#### To track ongoing and upcoming investments, visit the "Roadmap" project board under "Projects".
+#### To track ongoing and upcoming investments, visit the "Roadmap" project board under "Projects" (WIP).
 
 Below, you'll find some helpful references to learn more about and try out the Durable Task Scheduler:
 - Documentation: https://aka.ms/dts-documentation
