@@ -20,7 +20,7 @@ When paired with a developer orchestration framework like Durable Functions or t
 
 Developers can use the durable task scheduler with the following orchestration frameworks: 
 - [Durable Functions](https://learn.microsoft.com/azure/azure-functions/durable/durable-functions-overview) 
-- Durable Task SDKs, also referred to as "portable SDKs"
+- [Durable Task SDKs, also referred to as "portable SDKs"](https://github.com/microsoft/durabletask-dotnet)
 - [Durable Task Framework](https://github.com/Azure/durabletask) 
 
 ## Azure Functions durable task scheduler
